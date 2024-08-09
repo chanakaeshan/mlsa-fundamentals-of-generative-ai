@@ -57,18 +57,18 @@ In this Event, explore the way in which language models enable AI applications a
     <td>Sri Lanka</td>
   </tr>
   <tr>
-    <td>State or Province</td>
-    <td>North-Western</td>
+    <!-- <td>State or Province</td>
+    <td></td>
   </tr>
   <tr>
     <td>City</td>
-    <td>Kurunegala</td>
+    <td></td>
   </tr>
-  <tr>
+  <tr> -->
     <td>Time zone</td>
     <td>Sri Lanka Standard Time</td>
   </tr>
-  <tr>
+  <!-- <tr>
     <td>Street Address</td>
     <td>47 Bauddhaloka Mawatha</td>
   </tr>
@@ -79,22 +79,22 @@ In this Event, explore the way in which language models enable AI applications a
   <tr>
     <td>Room No</td>
     <td>Auditorium</td>
-  </tr>
+  </tr> -->
   <tr>
     <td>Start Date</td>
-    <td>Mon, May 13, 2023</td>
+    <td>Sat, August 10, 2024</td>
   </tr>
   <tr>
     <td>End Date</td>
-    <td>Mon, May 13, 2023</td>
+    <td>Sat, August 10, 2024</td>
   </tr>
   <tr>
     <td>Start Time</td>
-    <td>09:00 AM</td>
+    <td>07:00 PM</td>
   </tr>
   <tr>
     <td>End Time</td>
-    <td>02:00 PM</td>
+    <td>08:00 PM</td>
   </tr>
   <tr>
     <td>Event URL</td>
@@ -121,8 +121,8 @@ In this Event, explore the way in which language models enable AI applications a
       <li>Program Management</li>
     </td>
   </tr>
-  <tr>
+  <!-- <tr>
     <td>Contributors</td>
     <td>Dileepa Bandara</td>
-  </tr>
+  </tr> -->
 </table>
