@@ -1,15 +1,15 @@
-# Build AI Solutions with Microsoft Technologies
+# Fundamentals of Generative AI
 
-On May 13th, 2024, the "Build AI Solutions with Microsoft Technologies" session brought together students from the NIBM Kurunegala branch for a hands-on experience with Azure AI Services and Developer Tools.
+In this Event, explore the way in which language models enable AI applications and services to generate original content based on natural language input. You also learn how generative AI enables the creation of copilots that can assist humans in creative tasks.
 
-#MSFTStudentAmbassadors #MLSA #Microsoft365 #MicrosoftLearn #Beginner #Microsoft365forStudents #NIBM  
+<!-- #MSFTStudentAmbassadors #MLSA #Microsoft365 #MicrosoftLearn #Beginner #Microsoft365forStudents #NIBM   -->
 
 ## Event Post
 
-<a href="https://ibb.co/L0yks9P"><img src="https://i.ibb.co/sg4mXsP/qwrewtewtqw424.png" alt="qwrewtewtqw424" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>Fundamentals of Generative AI</a><br />
+<a href="https://ibb.co/L0yks9P"><img src="https://i.ibb.co/sg4mXsP/qwrewtewtqw424.png" alt="qwrewtewtqw424" border="0"></a><br />
 
 ## Event Profile
-<!-- [Event - MVP Website](https://mvp.microsoft.com/en-US/events/35391) -->
+<!-- [Event - MVP Website](https://mvp.microsoft.com/en-US/events/35391) target='_blank' -->
 
 ## Event Notes
 <!-- Download PDF - [01 - Build AI Solutions with Microsoft Technologies, 13.05.2024 (In-Person).pdf](https://stdntpartners-my.sharepoint.com/:b:/g/personal/shehal_herath_studentambassadors_com/EXBRcnOV1_FAi0oB-CNFNA4B-AMxgWT3iZa_-MJICIKJYw?e=BzMdjo)  -->
