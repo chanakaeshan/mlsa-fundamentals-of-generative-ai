@@ -27,7 +27,7 @@ In this Event, explore the way in which language models enable AI applications a
   </tr>
   <tr>
     <td>Description</td>
-    <td>In this workshop dives into AI fundamentals using Microsoft technologies. Through engaging sessions, participants gain insights into key concepts like machine learning and computer vision. Hands-on activities provide practical experience, empowering students to apply theory to real-world scenarios. Integration with GitHub and LinkedIn fosters continuous learning and networking, ensuring participants can further explore AI beyond the workshop. Whether you're new to AI or seeking to deepen your understanding, this workshop equips students with valuable skills and connections to succeed in the dynamic field of artificial intelligence.</td>
+    <td>In this Event, explore the way in which language models enable AI applications and services to generate original content based on natural language input. You also learn how generative AI enables the creation of copilots that can assist humans in creative tasks.</td>
   </tr>
   <tr>
     <td>Classification</td>
@@ -39,15 +39,18 @@ In this Event, explore the way in which language models enable AI applications a
   </tr>
   <tr>
     <td>Type</td>
-    <td>Workshop</td>
+    <td>Event</td>
   </tr>
   <tr>
     <td>Technology Area</td>
-    <td>Azure AI Services</td>
+    <td>
+        Azure and the Azure portal <br>
+        Language models
+    </td>
   </tr>
    <tr>
     <td>Additional Technology Area</td>
-    <td>Developer Tools</td>
+    <td>Developer Tools, Azure OpenAI Service</td>
   </tr>
   <tr>
     <td>Country or Region</td>
